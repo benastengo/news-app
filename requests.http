@@ -1,0 +1,4 @@
+###api = e4b5c3c28aa84ac99912df35cfb66c06
+GET http://localhost:3000/articles/iowa
+
+
